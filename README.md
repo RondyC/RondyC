@@ -8,7 +8,6 @@ Email: gerauf@bk.ru
 
 Telegram: @rondycys
 
-
 Ключевые навыки
 
 ○	Язык программирования: Python – средний уровень
