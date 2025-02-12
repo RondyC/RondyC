@@ -1,12 +1,22 @@
 Герауф Никита
+
 Калининград
+
 Тел. +7 (913) 633-74-74
+
 Email: gerauf@bk.ru
+
 Telegram: @rondycys
+
+
 
 ML-разработчик
 
+
+
+
 Ключевые навыки
+
 ○	Язык программирования: Python – средний уровень
 
 ○	Фреймворки и библиотеки: Django, Flask, FastAPI, TensorFlow, PyTorch, Requests, SQLAlchemy
