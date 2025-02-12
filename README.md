@@ -11,8 +11,9 @@ ML-разработчик
 
 ○	Фреймворки и библиотеки: Django, Flask, FastAPI, TensorFlow, PyTorch, Requests, SQLAlchemy
 TensorFlow, PyTorch, Keras
-○	Навыки автоматического тестирования: PyTest, Unittest
 
+○	Навыки автоматического тестирования: PyTest, Unittest
+	
 ○	Операционные системы: Windows, Linux
 
 ○	Сетевые технологии: OAuth 2.0
