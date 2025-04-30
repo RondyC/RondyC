@@ -100,8 +100,10 @@
 * ✅ Визуализация результатов классификации
 
 🎮 Atari_Policy_Gradient
-🖥️ Python, Gymnasium Atari, PyTorch, NumPy, ImageIO, PIL, Matplotlib, tqdm
+* 🖥️ Python, Gymnasium Atari, PyTorch, NumPy, ImageIO, PIL, Matplotlib, tqdm
+
 🔹 Описание: Обучение агента играть в MsPacman-v5 с помощью чистого алгоритма Policy Gradient (REINFORCE) без baseline.
+
 🔹 Достижения:
 * ✅ Параллельный сбор данных через AsyncVectorEnv (8 сред)
 * ✅ Обучение на 1 000 эпизодах, средний reward ≈ 510
