@@ -35,7 +35,7 @@
 
 ## 🏗️ Учебные проекты
 
-### 🔈 Анализ мультиязычной речи и сравнение TTS-систем
+### 🔈 [Анализ мультиязычной речи и сравнение TTS-систем](https://github.com/RondyC/speech_language_detection).
 * 🧠 Python, PyTorch, Transformers, Librosa, SoundFile, PESQ/STOI, FastDTW, FFmpeg
 
 🔹 Описание:
