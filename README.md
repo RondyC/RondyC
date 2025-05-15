@@ -35,7 +35,7 @@
 
 ## 🏗️ Учебные проекты
 
-### ([💬 AI Chat на Flet с Android-сборкой](https://github.com/RondyC/ChatAI)
+### [💬 AI Chat на Flet с Android-сборкой](https://github.com/RondyC/ChatAI)
 * 📱 Python, Flet 0.28.2, OpenRouter API, Asyncio, SQLite, Android (APK-сборка)
 
 🔹 Описание:
