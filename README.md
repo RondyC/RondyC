@@ -35,6 +35,9 @@
 
 ## 🏗️ Учебные проекты
 
+### [💬 AI Chat на Flutter](https://github.com/RondyC/AIChatFlutter)
+
+
 ### [💬 AI Chat на Flet с Android-сборкой](https://github.com/RondyC/ChatAI)
 * 📱 Python, Flet 0.28.2, OpenRouter API, Asyncio, SQLite, Android (APK-сборка)
 
