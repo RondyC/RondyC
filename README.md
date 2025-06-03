@@ -35,7 +35,7 @@
 
 ## 🏗️ Учебные проекты
 
-### [💬 Мобильное приложение AIChatFlutter для общения с ИИ.](https://github.com/RondyC/AIChatFlutter)
+### [💬 Мобильное приложение AIChatFlutter для общения с ИИ.](https://github.com/RondyC/AIChatFlutter-main)
 * 📱 Flutter, Dart, Provider, SQLite, REST API, JSON, dotenv, Matplotlib
 
 🔹 Описание:
