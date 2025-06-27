@@ -2,7 +2,7 @@
 
 📍 **Location:** Калининград
 
-📞 **Телефон:** +7 (913) 633-74-74  
+📞 **Телефон:** +7 (913) 663-74-74  
 ✉️ **Email:** [gerauf@bk.ru](mailto:gerauf@bk.ru)  
 📲 **Telegram:** [@rondycys](https://t.me/rondycys)  
 
