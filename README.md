@@ -30,8 +30,6 @@
 
 ## 💬 MyMessenger — собственный мессенджер
 
-**Репозиторий:** [github.com/RondyC/MyMessenger](https://github.com/RondyC/MyMessenger)
-
 Мессенджер с клиентскими приложениями и собственной серверной частью. Проект развивается как самостоятельный продукт для общения и обмена информацией.
 
 **Технологии:** Flutter, Dart, TypeScript, Node.js, Express, PostgreSQL, WebSocket, WebRTC.
@@ -51,10 +49,9 @@
 
 ---
 
-## 🚘 Автопрокат Компас — цифровая платформа бизнеса
+## 🚘 Автопрокат — цифровая платформа бизнеса
 
-**Репозиторий:** [github.com/RondyC/AvtoprokatApps](https://github.com/RondyC/AvtoprokatApps)  
-**Сайт:** [avtoprokat-kaliningrad.ru](https://avtoprokat-kaliningrad.ru/)
+**Репозиторий:**
 
 Не просто сайт автопроката, а собственная цифровая платформа, объединяющая несколько приложений и единую бизнес-логику.
 
